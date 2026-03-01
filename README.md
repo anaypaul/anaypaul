@@ -2,7 +2,7 @@
 
 📍 **Bellevue, WA** | Software Engineer @ [Meta](https://about.meta.com/)
 
-I build large-scale distributed systems and enjoy exploring AI/ML on the side.
+Tech Lead building agentic AI platforms and developer tools at Meta — helping engineers ship faster through AI-powered solutions for complex enterprise workflows.
 
 ## Work Experience
 
@@ -10,7 +10,7 @@ I build large-scale distributed systems and enjoy exploring AI/ML on the side.
 Team lead for AI 4 Productivity workstreams, building AI-powered developer tools for all developers at Meta. Scaled agentic AI platforms and LLM orchestration for complex, large-scale code repositories like Android Open Source Project (AOSP), working on context engineering, evaluation frameworks, and GenAI-based code authoring tools powered by LLaMA.
 
 ### Oracle Cloud Infrastructure
-Worked on cloud region automation and metadata infrastructure that supported OCI's global expansion across 50+ regions and 400+ service teams.
+Built the Touchless Region Build platform — a one-click automation system for spinning up new OCI cloud regions and deploying all OCI services end-to-end. Supported OCI's global expansion across 50+ regions and 400+ service teams.
 
 ### Amazon Web Services
 Contributed to Amazon ECR — shipping container encryption, vulnerability scanning, and infrastructure-as-code features across all AWS regions.
