@@ -42,6 +42,8 @@ Contributed to Amazon ECR — shipping container encryption, vulnerability scann
 ![gRPC](https://img.shields.io/badge/-gRPC-244C5A?style=flat-square&logo=google&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Thrift](https://img.shields.io/badge/-Thrift-D12127?style=flat-square&logo=apache&logoColor=white)
+![LSP](https://img.shields.io/badge/-LSP-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
