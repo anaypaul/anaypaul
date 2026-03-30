@@ -1,7 +1,5 @@
 # Hi, I'm Anay
 
-![Profile Views](https://komarev.com/ghpvc/?username=anaypaul&style=flat-square&color=blue)
-
 📍 **Bellevue, WA** | Software Engineer @ [Meta](https://about.meta.com/)
 
 Tech Lead building agentic AI platforms and developer tools at Meta — helping engineers ship faster through AI-powered solutions for complex enterprise workflows.
@@ -56,3 +54,7 @@ Contributed to Amazon ECR — shipping container encryption, vulnerability scann
 [![LinkedIn](https://img.shields.io/badge/-paulanay-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulanay/)
 
 ---
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=anaypaul&style=flat-square&color=blue" alt="Profile Views" />
+</p>
