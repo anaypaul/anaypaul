@@ -1,5 +1,7 @@
 # Hi, I'm Anay
 
+![Profile Views](https://komarev.com/ghpvc/?username=anaypaul&style=flat-square&color=blue)
+
 📍 **Bellevue, WA** | Software Engineer @ [Meta](https://about.meta.com/)
 
 Tech Lead building agentic AI platforms and developer tools at Meta — helping engineers ship faster through AI-powered solutions for complex enterprise workflows.
