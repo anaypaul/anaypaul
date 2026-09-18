@@ -2,12 +2,12 @@
 
 📍 **Bellevue, WA** | Software Engineer @ [Meta](https://about.meta.com/)
 
-Tech Lead building agentic AI platforms and developer tools at Meta — helping engineers ship faster through AI-powered solutions for complex enterprise workflows.
+Tech Lead building agentic AI platforms, Coding Agents (Devmate, Muse Code, and other 3p agents) and developer tools at Meta — helping engineers ship faster through AI-powered solutions for complex enterprise workflows.
 
 ## Work Experience
 
 ### Meta Platforms
-Team lead for AI 4 Productivity workstreams, building AI-powered developer tools for all developers at Meta. Scaled agentic AI platforms and LLM orchestration for complex, large-scale code repositories like Android Open Source Project (AOSP), working on context engineering, evaluation frameworks, and GenAI-based code authoring tools powered by LLaMA.
+Team lead for AI Coding Agents, building AI-powered developer tools for all developers at Meta. Scaled agentic AI platforms and LLM orchestration for complex, large-scale code repositories like Android Open Source Project (AOSP), working on context engineering, evaluation frameworks, and GenAI-based code authoring tools for both 1st party (Devmate, MuseCode, MetaCode) and 3p Coding Agents (Codex, Claude Code).
 
 ### Oracle Cloud Infrastructure
 Built the Touchless Region Build platform — a one-click automation system for spinning up new OCI cloud regions and deploying all OCI services end-to-end. Supported OCI's global expansion across 50+ regions and 400+ service teams.
